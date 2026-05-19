@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "IOptionsWebApi.Controllers.TesteController",
+    "Method": "GetConfig",
+    "RelativePath": "Teste",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

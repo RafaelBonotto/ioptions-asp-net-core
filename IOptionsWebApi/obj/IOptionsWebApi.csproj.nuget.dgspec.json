@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\IOptionsWebApi.csproj": {}
+    "C:\\Users\\rafar\\Source\\Repos\\ioptions-asp-net-core\\IOptionsWebApi\\IOptionsWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\IOptionsWebApi.csproj": {
+    "C:\\Users\\rafar\\Source\\Repos\\ioptions-asp-net-core\\IOptionsWebApi\\IOptionsWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\IOptionsWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\rafar\\Source\\Repos\\ioptions-asp-net-core\\IOptionsWebApi\\IOptionsWebApi.csproj",
         "projectName": "IOptionsWebApi",
-        "projectPath": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\IOptionsWebApi.csproj",
+        "projectPath": "C:\\Users\\rafar\\Source\\Repos\\ioptions-asp-net-core\\IOptionsWebApi\\IOptionsWebApi.csproj",
         "packagesPath": "C:\\Users\\rafar\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\obj\\",
         "projectStyle": "PackageReference",

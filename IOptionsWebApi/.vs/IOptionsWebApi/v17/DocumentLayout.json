@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12322ADB-24CE-4301-9170-2EAB5342C8BF}|IOptionsWebApi.csproj|c:\\users\\rafar\\source\\repos\\ioptions-asp-net-core\\ioptionswebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12322ADB-24CE-4301-9170-2EAB5342C8BF}|IOptionsWebApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12322ADB-24CE-4301-9170-2EAB5342C8BF}|IOptionsWebApi.csproj|c:\\users\\rafar\\source\\repos\\ioptions-asp-net-core\\ioptionswebapi\\controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12322ADB-24CE-4301-9170-2EAB5342C8BF}|IOptionsWebApi.csproj|solutionrelative:controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12322ADB-24CE-4301-9170-2EAB5342C8BF}|IOptionsWebApi.csproj|c:\\users\\rafar\\source\\repos\\ioptions-asp-net-core\\ioptionswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12322ADB-24CE-4301-9170-2EAB5342C8BF}|IOptionsWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12322ADB-24CE-4301-9170-2EAB5342C8BF}|IOptionsWebApi.csproj|c:\\users\\rafar\\source\\repos\\ioptions-asp-net-core\\ioptionswebapi\\configteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12322ADB-24CE-4301-9170-2EAB5342C8BF}|IOptionsWebApi.csproj|solutionrelative:configteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12322ADB-24CE-4301-9170-2EAB5342C8BF}|IOptionsWebApi.csproj|c:\\users\\rafar\\source\\repos\\ioptions-asp-net-core\\ioptionswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12322ADB-24CE-4301-9170-2EAB5342C8BF}|IOptionsWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +39,67 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-16T23:08:36.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TesteController.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\Controllers\\TesteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TesteController.cs",
+              "ToolTip": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\Controllers\\TesteController.cs",
+              "RelativeToolTip": "Controllers\\TesteController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T23:01:35.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T22:59:30.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigTeste.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\ConfigTeste.cs",
+              "RelativeDocumentMoniker": "ConfigTeste.cs",
+              "ToolTip": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\ConfigTeste.cs",
+              "RelativeToolTip": "ConfigTeste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T22:55:15.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\rafar\\source\\repos\\ioptions-asp-net-core\\IOptionsWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-16T22:53:57.926Z"
             }
           ]
         }
